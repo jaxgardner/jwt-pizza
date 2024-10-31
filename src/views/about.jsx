@@ -16,7 +16,7 @@ export default function About() {
           Our talented employees at JWT Pizza are true artisans. They pour their heart and soul into every pizza they create, striving for perfection in every aspect. From hand-stretching the dough to
           carefully layering the toppings, they take pride in their work and are constantly seeking ways to elevate the pizza-making process. Their creativity and expertise shine through in every
           slice, resulting in a pizza that is not only delicious but also a work of art. We are grateful for our dedicated team and their unwavering commitment to delivering the most flavorful and
-          satisfying pizzas to our valued customers.
+          satisfying pizzas to our very valued customers.
         </p>
 
         <h2 className='py-2 text-2xl sm:text-4xl font-thin text-orange-600'>Our employees</h2>
